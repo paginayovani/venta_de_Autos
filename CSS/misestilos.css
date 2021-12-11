@@ -280,10 +280,10 @@ list-style-type: none;
 nav li a {
 display: block;
 border-radius: 10px; 
-padding: 10px 10px;            /*ancho y separacion elmentos menu*/    
+padding: 20px 15px;            /*ancho y separacion elmentos menu*/    
 border-left: 1px solid #999;
 border-right: 0px solid #222;
-font-size: 12px;              /*tamaño texto menu*/
+font-size: 12px;              /*tamaÃ±o texto menu*/
 color: gray;                 /*color texto menu*/
 font-family: arial black;     /*tipo texto menu*/
 text-decoration:none;
@@ -331,7 +331,7 @@ nav ul ul a {
 padding: 5px 0px;
 border-left: none;
 border-right: none;
-font-size: 11px;       /*tamaño texto submenu*/
+font-size: 11px;       /*tamaÃ±o texto submenu*/
 color: gray;          /*color texto submenu*/	
 font-family: arial black;  /*tipo texto submenu*/
 }
